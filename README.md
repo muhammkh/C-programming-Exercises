@@ -1,1 +1,1 @@
-# C-programming-Exercises Metropolia UAS
+# C-programming-Exercises
